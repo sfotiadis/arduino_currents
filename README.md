@@ -2,7 +2,15 @@
 
 ## Overview
 
-This Arduino Current Monitoring Project is a practical and educational project designed to monitor and log the power consumption of an Arduino Nano RP2040 Connect. By collecting and analyzing this data, you can make informed decisions about selecting the right solar panel and battery setup for extended operation in remote or off-grid locations.
+Hello there! 👋 I'm Spiro, and I'm on a journey to learn more about IoT monitoring with my trusty Arduino Nano RP2040 Connect. You see, I've always been fascinated by the world of Internet of Things (IoT), and I thought it would be a fantastic opportunity to dive into it with a fun project.
+
+I wanted to do more than just tinker with my Arduino; I wanted to monitor and understand its power consumption over time. This is crucial for me because I'm planning to power it with solar panels and batteries, and I need to make informed decisions about the setup. So, I embarked on this adventure to create a solution that would not only help me monitor my Arduino's power usage but also store and visualize the data in a user-friendly way.
+
+In my quest to accomplish this, I decided to leverage some powerful tools like InfluxDB, Telegraf and MQTT. To make things even more exciting, I'm running it all within a Minikube Kubernetes cluster. This setup gives me the flexibility to experiment, learn, and fine-tune the project in a controlled environment.
+
+But hey, I must emphasize that this project is primarily for learning purposes. While I'm doing my best to make it work smoothly, I can't guarantee that everything will be flawless. It's a journey of exploration, and I'm sharing it with the community in the hope that it might inspire others or spark collaborative improvements.
+
+So, join me on this adventure as I explore the world of IoT monitoring, data storage, and experimentation. Feel free to contribute, offer suggestions, or just follow along to see how it all unfolds.
 
 ## Table of Contents
 
