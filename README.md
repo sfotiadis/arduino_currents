@@ -39,7 +39,7 @@ To get your Arduino up and running, update the following variables in the Arduin
 
 ## Kubernetes Infrastructure
 
-The [`Kubernetes`](Kubernetes) directory contains the Kubernetes configuration files for deploying the essential components of this project:
+The [`kubernetes`](kubernetes) directory contains the Kubernetes configuration files for deploying the essential components of this project:
 
 - InfluxDB: A time-series database for storing measurement data.
 - Eclipse Mosquitto: An MQTT broker for handling communication between devices.
